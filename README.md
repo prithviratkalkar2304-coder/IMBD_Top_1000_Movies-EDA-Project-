@@ -30,7 +30,6 @@ This dataset contains information about top 1000 IMDB movies, including their ti
   - Univariate Analysis
   - Bivariate Analysis
   - Multivariate Analysis
-- EDA Conclusion
 
 # Here the results: 
 1. There are missing values in the dataset, in the columns Metascore and Certificate by a total of 158 or 15.8% and no Duplicate Data
@@ -49,4 +48,3 @@ This dataset contains information about top 1000 IMDB movies, including their ti
 14. The Top Stars in IMBD's 1000 Movies is **Robert De Niro** then **Tom Hanks, Al Pacino, Matt Damon, Brad Pitt**
 15. The Top Directors in IMBD's 1000 Movies are **Alfred Hitchcock and Akira Kurowasa** but the director who earned Highest Grossed Revenue from their movie is **Christopher Nolan**
 16. After analyzing the movies that contributed the most to Director Christopher Nolan's Grossed Revenue, it turns out the movies that have the highest Grossed Revenue are **The Dark Knight** then **Inception, Interstellar, The Dark Knight Rises** and **Batman Begins**. It can also be seen that the **Batman sequel or The Dark Knight** is the highest or main contribution to Christopher Nolan's Grossed Revenue.
-17. Every movie mostly contains the words **"Life, Find, Man, Two, Family and Young"**. Maybe these words are found in the Drama genre, therefore it must be further analyzed the words on the plot in the drama genre where the Drama Genre is the most popular movie in the Top 1000 IMDb Rating.
